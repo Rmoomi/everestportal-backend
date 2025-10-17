@@ -5,7 +5,7 @@
 /.env
 
 # Ignore Firebase service account (private key)
-/serviceAccount.json
+services/serviceAccount.json
 
 # Ignore uploads folder (optional, if temporary)
 /uploads
